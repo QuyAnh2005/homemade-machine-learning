@@ -41,7 +41,7 @@ Understand and code some algorithms in machine learning from scratch
 - K-means algorithm and implementation
 - K-means algorithm in sklearn
 
-## [5.Decision Tree](https://github.com/QuyAnh2005/homemade-machine-learning/blob/ec749a151c4fe399141f203f699ff3260f31902d/5%20-%20Decision%20Tree)
+## [5. Decision Tree](https://github.com/QuyAnh2005/homemade-machine-learning/blob/ec749a151c4fe399141f203f699ff3260f31902d/5%20-%20Decision%20Tree)
 - What is Decision Tree?
 - Important Terminology related to Decision Trees
 - How do Decision Trees work?
@@ -69,7 +69,7 @@ Understand and code some algorithms in machine learning from scratch
 - [SVMs using Lagrange Method]()
   - Updating
   
-## [7.Naive Bayes](https://github.com/QuyAnh2005/homemade-machine-learning/tree/ec749a151c4fe399141f203f699ff3260f31902d/7%20-%20Naive%20Bayes)
+## [7. Naive Bayes](https://github.com/QuyAnh2005/homemade-machine-learning/tree/ec749a151c4fe399141f203f699ff3260f31902d/7%20-%20Naive%20Bayes)
 - [Gaussian Naive Bayes](https://github.com/QuyAnh2005/homemade-machine-learning/blob/ec749a151c4fe399141f203f699ff3260f31902d/7%20-%20Naive%20Bayes/Gaussian%20Naive%20Bayes.ipynb)
   - Naive Bayes Rule
   - Gaussian Naive Bayes
