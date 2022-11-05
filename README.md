@@ -16,7 +16,7 @@ Understand and code some algorithms in machine learning from scratch
 - Regression and Sigmoid
 - Cost function and Gradient
   - Cost function
-  - Partial derivative of 
+  - Partial derivative of $J(\theta)$
   - Update the weights
   - Implement gradient descent function
 - Training model
