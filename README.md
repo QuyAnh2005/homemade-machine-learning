@@ -90,3 +90,18 @@ Understand and code some algorithms in machine learning from scratch
   - Multinomial Naive Bayes Model from Scratch
   - Multinomial Naive Bayes Model in Sklearn
   - Multinomial Naive Bayes for Out of Vocabulary
+
+# Other Algorithms
+Besides the above algorithms, I have researched some other algorithms and will publish as soon as possible. A list of algorithms:
+- Random Forest
+- XGBoost
+- AdaBoost
+- SVD
+- LDA
+- DBSCAN
+- ...
+
+# Contact
+If you have any problems, please contact me:
+- Email-1: dangquyanh150101@gmail.com
+- Email-2: dangquyanh_t64$hus.edu.vn
