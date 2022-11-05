@@ -56,7 +56,7 @@ Understand and code some algorithms in machine learning from scratch
 - Pros and cons
 
 ## [6. Support Vector Machines](https://github.com/QuyAnh2005/homemade-machine-learning/tree/ec749a151c4fe399141f203f699ff3260f31902d/6%20-%20Support%20Vector%20Machine)
-- [SVMs using Gradient Descent](https://github.com/QuyAnh2005/homemade-machine-learning/blob/ec749a151c4fe399141f203f699ff3260f31902d/6%20-%20Support%20Vector%20Machine/Support%20Vector%20Machine.ipynb)
+- [SVMs - Gradient Descent](https://github.com/QuyAnh2005/homemade-machine-learning/blob/main/6%20-%20Support%20Vector%20Machine/SVMs%20-%20Part%201%20-%20Gradient%20Descent.ipynb)
   - What is SVMs?
   - Primal Support Vector Machine
     - Distance between Two Parallel Lines
@@ -68,6 +68,18 @@ Understand and code some algorithms in machine learning from scratch
     - Soft Margin by Gradient Descent
 - [SVMs using Lagrange Method]()
   - Updating
+- [SVMs - Lagrange Method](https://github.com/QuyAnh2005/homemade-machine-learning/blob/main/6%20-%20Support%20Vector%20Machine/SVMs%20-%20Part%202%20-%20Lagrange%20Method.ipynb)
+  - Review about Primal Support Vector Machine?
+  - Dual Support Vector Machine
+  - Hard - Soft Margin
+    - Implementation
+    - Sklearn
+  - Kernel SVM
+    - Implementation
+    - Sklearn
+  - Visualization
+  - References
+
   
 ## [7. Naive Bayes](https://github.com/QuyAnh2005/homemade-machine-learning/tree/ec749a151c4fe399141f203f699ff3260f31902d/7%20-%20Naive%20Bayes)
 - [Gaussian Naive Bayes](https://github.com/QuyAnh2005/homemade-machine-learning/blob/ec749a151c4fe399141f203f699ff3260f31902d/7%20-%20Naive%20Bayes/Gaussian%20Naive%20Bayes.ipynb)
