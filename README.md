@@ -104,4 +104,4 @@ Besides the above algorithms, I have researched some other algorithms and will p
 # Contact
 If you have any problems, please contact me:
 - Email-1: dangquyanh150101@gmail.com
-- Email-2: dangquyanh_t64$hus.edu.vn
+- Email-2: dangquyanh_t64@hus.edu.vn
