@@ -67,7 +67,7 @@ Understand and code some algorithms in machine learning from scratch
     - Hard Margin by Gradient Descent
     - Soft Margin by Gradient Descent
 - [SVMs - Lagrange Method](https://github.com/QuyAnh2005/homemade-machine-learning/blob/main/6%20-%20Support%20Vector%20Machine/SVMs%20-%20Part%202%20-%20Lagrange%20Method.ipynb)
-  - Review about Primal Support Vector Machine?
+  - Review about Primal Support Vector Machine
   - Dual Support Vector Machine
   - Hard - Soft Margin
     - Implementation
