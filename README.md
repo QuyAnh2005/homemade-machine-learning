@@ -1,5 +1,5 @@
 # homemade-machine-learning
-Understand and code some algorithms in machine learning from scratch
+Implement some ML algorithms from scratch.
 
 # Content
 ## [1. Linear Regression](https://github.com/QuyAnh2005/homemade-machine-learning/tree/main/Linear%20Regression)
@@ -90,12 +90,31 @@ Understand and code some algorithms in machine learning from scratch
   - Multinomial Naive Bayes Model from Scratch
   - Multinomial Naive Bayes Model in Sklearn
   - Multinomial Naive Bayes for Out of Vocabulary
+  
+  
+## [8. Random Forest](https://github.com/QuyAnh2005/homemade-machine-learning/blob/main/8%20-%20Random%20Forest/Random%20Forest.ipynb)
+- Bagging
+- What is Random Forest?
+- Important Features of Random Forest
+- Important Hyperparameters
+- Pseudo-code
+- Implementation
+- Advantages and Disadvantages
+- References
+
+
+## [9. Gradient Boosting](https://github.com/QuyAnh2005/homemade-machine-learning/blob/main/9%20-%20Gradient%20Boosting/Gradient%20Boosting.ipynb)
+- Introduction
+  - Definnition of Gradient Boosting
+  - Overview of ensemble learning
+- Theoretical foundations of Gradient Boosting
+  - Introduction to decision trees
+  - Mathematical formulation of Gradient Boosting
+- Implementation
+- Pros and cons
 
 # Other Algorithms
 Besides the above algorithms, I have researched some other algorithms and will publish as soon as possible. A list of algorithms:
-- Random Forest
-- XGBoost
-- AdaBoost
 - SVD
 - LDA
 - DBSCAN
